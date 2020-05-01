@@ -26,6 +26,7 @@ namespace MvcDemo.Controllers
 
         public string GetMyName(string id, string name)
         {
+            //... Comment Added in GIT ...
             return "My Id is: " + id +" my name is: "+ name;
         }
     }
